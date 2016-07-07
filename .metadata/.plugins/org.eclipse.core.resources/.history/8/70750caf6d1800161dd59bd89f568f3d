@@ -1,0 +1,15 @@
+package com.daniel.myfirstAPI;
+
+public class api {
+	
+		
+		String name() {
+		return "Daniel";
+		}
+		
+		int age() {
+			int age = 27;
+			return age;
+		}
+	
+}

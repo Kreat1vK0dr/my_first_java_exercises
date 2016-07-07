@@ -1,0 +1,17 @@
+package Excercise3;
+
+import java.util.Scanner;
+
+public class ex3 {
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		ex3_1 object1 = new ex3_1();
+		System.outprintln("Enter name of first gf here:");
+		String name = input.nextLine();
+		object1.setName(name);
+		object1.saying();
+	}
+
+}

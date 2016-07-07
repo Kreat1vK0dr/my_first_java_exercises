@@ -1,0 +1,11 @@
+import com.daniel.myfirstAPI.*;
+
+public class TestAPI {
+
+	public static void main(String[] args) {
+	
+			System.out.println(name);
+
+	}
+
+}

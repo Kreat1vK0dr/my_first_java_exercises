@@ -1,0 +1,12 @@
+package Excercise3;
+
+public class ex3 {
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		class1 class1Object = new class1();
+
+	}
+
+}

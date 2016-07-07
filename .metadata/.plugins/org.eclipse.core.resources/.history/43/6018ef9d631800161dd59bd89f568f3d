@@ -1,0 +1,7 @@
+package com.daniel.myfirstAPI;
+
+public class api {
+	String name = "Daniel";
+	int age = 27;
+	
+}
